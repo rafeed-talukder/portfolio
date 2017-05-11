@@ -1,0 +1,173 @@
+*{margin: 0;padding: 0;}
+
+body{ font-family: "caption";font-size: 15px;color:#000;}
+
+.b  {overflow: hidden;}
+
+.temp{width: 960px;margin-bottom: 10px;margin:0 auto;}
+
+.headersection { background:#AFAF3BAF;}
+
+.logo{float: left;}
+.logo img{
+	 padding: 6px;
+    width: 90px;
+}
+
+.logo h2{padding-top: 17px;
+float: right;
+font-family:initia;
+color: #fff;
+font-size: 33px;
+text-shadow: 1px 1px 2px #fff;
+}
+.social{float: right}
+
+.social img{ border-radius: 32px;
+    height: 45px;
+    padding-top: 5px;
+    width: 45px}
+.navsection {
+  background: #98988b none repeat scroll 0 0;
+  border: 1px solid #fff;
+  height: 40px;
+}
+
+
+.navsection ul{margin: 0px;padding: 0px;}
+
+
+.navsection ul li { display: block;float: left;
+  font-size: 20px;position: relative;}
+
+
+.navsection ul li a {
+  background: #3927124d;
+  border: 1px solid;
+  border-radius: 5px;
+  color: #fff;
+  display: block;
+  font-family: a;
+  font-size: 17px;
+  margin: 7px 6px 6px 3px;
+  padding: 2px 8px;
+  text-decoration: none;
+}
+
+.contentsection{background: #F5F5DC;
+margin-top: 10px;
+margin-bottom: 10px;background: #F5F5DC;
+margin-top: 5px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+
+.mainsection {
+  background: #f5f5dc none repeat scroll 0 0;
+  border: 1.3px solid #a3a3a3;
+  float: left;
+  padding: 10px;
+  width: 630px;
+}
+
+
+.topsection{}
+
+.topsection h2 {
+  background-color: #ded4c6;
+  border-bottom: 2px solid #696969;
+  color: #fff;
+  font-family: icon;
+  margin-top: -6px;
+  padding: 6px;
+  text-shadow: 1px 0 2px #090909;
+}
+.topsection img {
+  background-color: #fff;
+  border: 2px solid;
+  float: left;
+  margin-right: 8px;
+  margin-top: 12px;
+  padding: 7px;
+   border: 1.5px solid;
+    border-radius: 7px;
+    width: 300px;
+    height: 288px;
+}
+
+.topsection p {
+
+	    padding: 7px;
+   
+    font-size: 18px;
+    text-align: justify;
+}
+
+
+.sidesection {
+  background: #e1e5f2 none repeat scroll 0 0;
+  border: 1px solid #a3a3a3;
+  float: right;
+  padding: 10px;
+  width: 267px;
+  padding-bottom: 1px;
+}
+
+.about{background:#DED4C6;
+padding: 6px; 
+ margin-bottom: 8px;}
+.about h2{ color: #fff;
+    font-family: icon;
+    text-shadow: 1px 0 2px #000;}
+
+.about ol{padding: 20px;
+margin-top: -13px;
+margin-bottom: -5px;}
+
+.about ol li {}
+.about ol li a {text-decoration: none;
+padding: 2px;
+line-height: 20px;}
+
+
+
+
+.footersection{height:80px; background: #5D4D4D;text-align: center; }
+
+.footmenu{padding: 10px;}
+
+.footmenu ul{padding: 0px;margin: 0px;}
+
+.footmenu ul li {display: inline-block;
+;}
+
+.footmenu ul li a {color: #dda3a3
+; padding: 2px;}
+
+.footmenu p{color:#212b45;
+font-size: 18px;
+padding-top: 5px;
+}
+
+.contact {
+text-align: center;
+}
+
+ .info {
+  background: #ffffff;
+  border: 1px solid #c5c9d6;
+  border-radius: 10px;
+  padding-bottom: 150px;
+  padding-top: 130px;
+   font-family: "Comic Sans MS";
+}
+.info h3{
+ color: tan;
+    padding-bottom: 15px;
+
+}
+.info p {
+  line-height: 1.5;
+    padding-left: 28px;
+}
